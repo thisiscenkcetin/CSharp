@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\bin\Debug\net8.0\Not Ortalaması Hesaplama - C#.exe
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\bin\Debug\net8.0\Not Ortalaması Hesaplama - C#.deps.json
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\bin\Debug\net8.0\Not Ortalaması Hesaplama - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\bin\Debug\net8.0\Not Ortalaması Hesaplama - C#.dll
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\bin\Debug\net8.0\Not Ortalaması Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.dll
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\refint\Not Ortalaması Hesaplama - C#.dll
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\Not Ortalaması Hesaplama - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Not Ortalaması Hesaplama - C#\Not Ortalaması Hesaplama - C#\obj\Debug\net8.0\ref\Not Ortalaması Hesaplama - C#.dll
