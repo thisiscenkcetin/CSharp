@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\bin\Debug\net8.0\Hipotenüs Bulma - C#.exe
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\bin\Debug\net8.0\Hipotenüs Bulma - C#.deps.json
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\bin\Debug\net8.0\Hipotenüs Bulma - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\bin\Debug\net8.0\Hipotenüs Bulma - C#.dll
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\bin\Debug\net8.0\Hipotenüs Bulma - C#.pdb
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.dll
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\refint\Hipotenüs Bulma - C#.dll
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.pdb
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\Hipotenüs Bulma - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Hipotenüs Bulma - C#\Hipotenüs Bulma - C#\obj\Debug\net8.0\ref\Hipotenüs Bulma - C#.dll
