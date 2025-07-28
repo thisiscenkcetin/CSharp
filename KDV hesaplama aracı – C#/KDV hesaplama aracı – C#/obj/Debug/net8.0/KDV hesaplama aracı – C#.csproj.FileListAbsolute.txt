@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\bin\Debug\net8.0\KDV hesaplama aracı – C#.exe
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\bin\Debug\net8.0\KDV hesaplama aracı – C#.deps.json
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\bin\Debug\net8.0\KDV hesaplama aracı – C#.runtimeconfig.json
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\bin\Debug\net8.0\KDV hesaplama aracı – C#.dll
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\bin\Debug\net8.0\KDV hesaplama aracı – C#.pdb
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.dll
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\refint\KDV hesaplama aracı – C#.dll
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.pdb
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\KDV hesaplama aracı – C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\KDV hesaplama aracı – C#\KDV hesaplama aracı – C#\obj\Debug\net8.0\ref\KDV hesaplama aracı – C#.dll
