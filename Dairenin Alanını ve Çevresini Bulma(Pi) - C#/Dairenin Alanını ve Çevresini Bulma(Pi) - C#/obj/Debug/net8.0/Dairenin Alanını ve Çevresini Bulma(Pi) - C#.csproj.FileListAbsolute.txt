@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\bin\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.exe
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\bin\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.deps.json
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\bin\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\bin\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.dll
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\bin\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.pdb
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.dll
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\refint\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.dll
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.pdb
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\Dairenin Alanını ve Çevresini Bulma(Pi) - C#\obj\Debug\net8.0\ref\Dairenin Alanını ve Çevresini Bulma(Pi) - C#.dll
