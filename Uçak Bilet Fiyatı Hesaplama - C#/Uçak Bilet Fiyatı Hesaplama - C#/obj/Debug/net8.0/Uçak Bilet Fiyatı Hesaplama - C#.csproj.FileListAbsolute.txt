@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\bin\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.exe
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\bin\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.deps.json
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\bin\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\bin\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.dll
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\bin\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.dll
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\refint\Uçak Bilet Fiyatı Hesaplama - C#.dll
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\Uçak Bilet Fiyatı Hesaplama - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Uçak Bilet Fiyatı Hesaplama - C#\Uçak Bilet Fiyatı Hesaplama - C#\obj\Debug\net8.0\ref\Uçak Bilet Fiyatı Hesaplama - C#.dll
