@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\bin\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.exe
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\bin\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.deps.json
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\bin\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\bin\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.dll
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\bin\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.pdb
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.dll
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\refint\Hava Sıcaklığına Göre Etkinlik Önerme - C#.dll
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.pdb
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\Hava Sıcaklığına Göre Etkinlik Önerme - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Hava Sıcaklığına Göre Etkinlik Önerme - C#\Hava Sıcaklığına Göre Etkinlik Önerme - C#\obj\Debug\net8.0\ref\Hava Sıcaklığına Göre Etkinlik Önerme - C#.dll
