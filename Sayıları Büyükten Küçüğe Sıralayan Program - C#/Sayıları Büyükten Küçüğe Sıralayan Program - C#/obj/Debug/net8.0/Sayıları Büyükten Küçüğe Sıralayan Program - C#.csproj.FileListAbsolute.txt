@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\bin\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.exe
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\bin\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.deps.json
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\bin\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\bin\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.dll
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\bin\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.pdb
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.dll
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\refint\Sayıları Büyükten Küçüğe Sıralayan Program - C#.dll
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.pdb
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\Sayıları Büyükten Küçüğe Sıralayan Program - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Sayıları Büyükten Küçüğe Sıralayan Program - C#\Sayıları Büyükten Küçüğe Sıralayan Program - C#\obj\Debug\net8.0\ref\Sayıları Büyükten Küçüğe Sıralayan Program - C#.dll
