@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\bin\Debug\net8.0\Faktöriyel Hesaplama - C#.exe
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\bin\Debug\net8.0\Faktöriyel Hesaplama - C#.deps.json
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\bin\Debug\net8.0\Faktöriyel Hesaplama - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\bin\Debug\net8.0\Faktöriyel Hesaplama - C#.dll
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\bin\Debug\net8.0\Faktöriyel Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.dll
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\refint\Faktöriyel Hesaplama - C#.dll
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\Faktöriyel Hesaplama - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Faktöriyel Hesaplama - C#\Faktöriyel Hesaplama - C#\obj\Debug\net8.0\ref\Faktöriyel Hesaplama - C#.dll
