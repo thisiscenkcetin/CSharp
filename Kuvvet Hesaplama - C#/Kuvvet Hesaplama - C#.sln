@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuvvet Hesaplama - C#", "Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#.csproj", "{286982F8-9EBC-476F-BAAD-285F2613425A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286982F8-9EBC-476F-BAAD-285F2613425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286982F8-9EBC-476F-BAAD-285F2613425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286982F8-9EBC-476F-BAAD-285F2613425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286982F8-9EBC-476F-BAAD-285F2613425A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA37AB1-47B5-480E-991C-8D90F4A5A0BB}
+	EndGlobalSection
+EndGlobal

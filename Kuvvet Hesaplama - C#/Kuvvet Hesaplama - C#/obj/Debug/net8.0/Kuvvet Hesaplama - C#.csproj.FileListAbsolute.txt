@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\bin\Debug\net8.0\Kuvvet Hesaplama - C#.exe
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\bin\Debug\net8.0\Kuvvet Hesaplama - C#.deps.json
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\bin\Debug\net8.0\Kuvvet Hesaplama - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\bin\Debug\net8.0\Kuvvet Hesaplama - C#.dll
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\bin\Debug\net8.0\Kuvvet Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.dll
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\refint\Kuvvet Hesaplama - C#.dll
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\Kuvvet Hesaplama - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Kuvvet Hesaplama - C#\Kuvvet Hesaplama - C#\obj\Debug\net8.0\ref\Kuvvet Hesaplama - C#.dll
