@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\bin\Debug\net8.0\Harmonik Sayılar - C#.exe
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\bin\Debug\net8.0\Harmonik Sayılar - C#.deps.json
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\bin\Debug\net8.0\Harmonik Sayılar - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\bin\Debug\net8.0\Harmonik Sayılar - C#.dll
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\bin\Debug\net8.0\Harmonik Sayılar - C#.pdb
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.dll
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\refint\Harmonik Sayılar - C#.dll
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.pdb
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\Harmonik Sayılar - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Harmonik Sayılar - C#\Harmonik Sayılar - C#\obj\Debug\net8.0\ref\Harmonik Sayılar - C#.dll
