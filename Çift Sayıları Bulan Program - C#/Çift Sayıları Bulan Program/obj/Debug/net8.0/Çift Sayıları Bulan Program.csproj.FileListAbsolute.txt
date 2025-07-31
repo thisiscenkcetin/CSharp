@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\bin\Debug\net8.0\Çift Sayıları Bulan Program.exe
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\bin\Debug\net8.0\Çift Sayıları Bulan Program.deps.json
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\bin\Debug\net8.0\Çift Sayıları Bulan Program.runtimeconfig.json
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\bin\Debug\net8.0\Çift Sayıları Bulan Program.dll
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\bin\Debug\net8.0\Çift Sayıları Bulan Program.pdb
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.AssemblyInfo.cs
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.dll
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\refint\Çift Sayıları Bulan Program.dll
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.pdb
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\Çift Sayıları Bulan Program.genruntimeconfig.cache
+C:\Users\PC\source\repos\Çift Sayıları Bulan Program\Çift Sayıları Bulan Program\obj\Debug\net8.0\ref\Çift Sayıları Bulan Program.dll
