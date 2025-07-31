@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.AssemblyInfo.cs
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\bin\Debug\net8.0\Üslü Sayı Hesaplama.exe
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\bin\Debug\net8.0\Üslü Sayı Hesaplama.deps.json
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\bin\Debug\net8.0\Üslü Sayı Hesaplama.runtimeconfig.json
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\bin\Debug\net8.0\Üslü Sayı Hesaplama.dll
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\bin\Debug\net8.0\Üslü Sayı Hesaplama.pdb
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.dll
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\refint\Üslü Sayı Hesaplama.dll
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.pdb
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\Üslü Sayı Hesaplama.genruntimeconfig.cache
+C:\Users\PC\source\repos\Üslü Sayı Hesaplama\Üslü Sayı Hesaplama\obj\Debug\net8.0\ref\Üslü Sayı Hesaplama.dll
