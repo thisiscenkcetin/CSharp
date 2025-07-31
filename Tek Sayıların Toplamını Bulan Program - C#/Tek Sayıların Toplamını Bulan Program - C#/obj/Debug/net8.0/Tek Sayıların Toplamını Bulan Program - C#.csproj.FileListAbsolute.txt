@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\bin\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.exe
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\bin\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.deps.json
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\bin\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\bin\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.dll
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\bin\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.pdb
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.dll
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\refint\Tek Sayıların Toplamını Bulan Program - C#.dll
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.pdb
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\Tek Sayıların Toplamını Bulan Program - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Tek Sayıların Toplamını Bulan Program - C#\Tek Sayıların Toplamını Bulan Program - C#\obj\Debug\net8.0\ref\Tek Sayıların Toplamını Bulan Program - C#.dll
