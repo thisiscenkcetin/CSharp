@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\bin\Debug\net8.0\ATM Projesi - C#.exe
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\bin\Debug\net8.0\ATM Projesi - C#.deps.json
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\bin\Debug\net8.0\ATM Projesi - C#.runtimeconfig.json
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\bin\Debug\net8.0\ATM Projesi - C#.dll
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\bin\Debug\net8.0\ATM Projesi - C#.pdb
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.dll
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\refint\ATM Projesi - C#.dll
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.pdb
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ATM Projesi - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\ATM Projesi - C#\ATM Projesi - C#\obj\Debug\net8.0\ref\ATM Projesi - C#.dll
