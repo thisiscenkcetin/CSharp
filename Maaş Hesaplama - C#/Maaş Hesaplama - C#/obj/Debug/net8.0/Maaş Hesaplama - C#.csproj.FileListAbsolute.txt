@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\bin\Debug\net8.0\Maaş Hesaplama - C#.exe
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\bin\Debug\net8.0\Maaş Hesaplama - C#.deps.json
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\bin\Debug\net8.0\Maaş Hesaplama - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\bin\Debug\net8.0\Maaş Hesaplama - C#.dll
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\bin\Debug\net8.0\Maaş Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.dll
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\refint\Maaş Hesaplama - C#.dll
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.pdb
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\Maaş Hesaplama - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Maaş Hesaplama - C#\Maaş Hesaplama - C#\obj\Debug\net8.0\ref\Maaş Hesaplama - C#.dll
