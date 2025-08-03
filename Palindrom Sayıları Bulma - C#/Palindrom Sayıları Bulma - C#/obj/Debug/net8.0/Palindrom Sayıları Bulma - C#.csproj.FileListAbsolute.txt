@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\bin\Debug\net8.0\Palindrom Sayıları Bulma - C#.exe
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\bin\Debug\net8.0\Palindrom Sayıları Bulma - C#.deps.json
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\bin\Debug\net8.0\Palindrom Sayıları Bulma - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\bin\Debug\net8.0\Palindrom Sayıları Bulma - C#.dll
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\bin\Debug\net8.0\Palindrom Sayıları Bulma - C#.pdb
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.dll
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\refint\Palindrom Sayıları Bulma - C#.dll
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.pdb
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\Palindrom Sayıları Bulma - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Palindrom Sayıları Bulma - C#\Palindrom Sayıları Bulma - C#\obj\Debug\net8.0\ref\Palindrom Sayıları Bulma - C#.dll
