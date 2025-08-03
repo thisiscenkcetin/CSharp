@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\bin\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.exe
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\bin\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.deps.json
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\bin\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.runtimeconfig.json
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\bin\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.dll
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\bin\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.pdb
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.AssemblyInfo.cs
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.dll
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\refint\Metotlar ile Hesap Makinesi - C#.dll
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.pdb
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\Metotlar ile Hesap Makinesi - C#.genruntimeconfig.cache
+C:\Users\PC\source\repos\Metotlar ile Hesap Makinesi - C#\Metotlar ile Hesap Makinesi - C#\obj\Debug\net8.0\ref\Metotlar ile Hesap Makinesi - C#.dll
